@@ -1,0 +1,8 @@
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_7\TemporaryJob\TemporaryJob\bin\Debug\TemporaryJob.exe.config
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_7\TemporaryJob\TemporaryJob\bin\Debug\TemporaryJob.exe
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_7\TemporaryJob\TemporaryJob\bin\Debug\TemporaryJob.pdb
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_7\TemporaryJob\TemporaryJob\obj\Debug\TemporaryJob.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_7\TemporaryJob\TemporaryJob\obj\Debug\TemporaryJob.csproj.SuggestedBindingRedirects.cache
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_7\TemporaryJob\TemporaryJob\obj\Debug\TemporaryJob.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_7\TemporaryJob\TemporaryJob\obj\Debug\TemporaryJob.exe
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_7\TemporaryJob\TemporaryJob\obj\Debug\TemporaryJob.pdb
